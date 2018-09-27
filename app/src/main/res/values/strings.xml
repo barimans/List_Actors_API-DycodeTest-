@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DycodeTest</string>
+
+    <string name="actors">Name of Actors</string>
+    <string name="desc">Description</string>
+    <string name="dob">dob</string>
+</resources>
