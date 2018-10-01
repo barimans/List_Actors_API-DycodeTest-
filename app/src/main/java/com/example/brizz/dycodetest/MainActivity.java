@@ -1,8 +1,8 @@
 package com.example.brizz.dycodetest;
 
+import android.app.ProgressDialog;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
     @BindView(R.id.recview_actors)
     RecyclerView recviewActors;
 
+    private ProgressDialog mProgress;
     private List<ActorsItem> actorsItems;
     private ActorAdapter actorAdapter;
 
@@ -43,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(mainToolbar);
         getSupportActionBar().setTitle("Name of Hollywood Actors");
 
+        mProgress = new ProgressDialog(this);
         recviewActors.setLayoutManager(new LinearLayoutManager(this));
         actorsItems = new ArrayList<>();
 
@@ -50,6 +52,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void showListActors() {
+        mProgress.setMessage("Loading Data...");
+        mProgress.show();
 
         ApiService apiService = InitRetrofit.getInstance();
 
@@ -66,6 +70,8 @@ public class MainActivity extends AppCompatActivity {
                     actorsItems = response.body().getActors();
                     actorAdapter = new ActorAdapter(MainActivity.this,actorsItems);
                     recviewActors.setAdapter(actorAdapter);
+
+                    mProgress.dismiss();
                 }else {
                     String err = response.errorBody().toString();
                     Toast.makeText(MainActivity.this, "Error "+err, Toast.LENGTH_SHORT).show();

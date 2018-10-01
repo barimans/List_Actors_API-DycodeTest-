@@ -86,10 +86,6 @@ public class ActorAdapter extends RecyclerView.Adapter<ActorAdapter.ViewHolder> 
             mView = itemView;
 
             cvList = itemView.findViewById(R.id.cv_list);
-            ivImageList = itemView.findViewById(R.id.iv_image_list);
-            tvNameList = itemView.findViewById(R.id.tv_name_list);
-            tvDescList = itemView.findViewById(R.id.tv_desc_list);
-            tvDobList = itemView.findViewById(R.id.tv_dob_list);
         }
 
         public void getActorsData(String name_list, String desc_list, String dob_list, String image_list){
