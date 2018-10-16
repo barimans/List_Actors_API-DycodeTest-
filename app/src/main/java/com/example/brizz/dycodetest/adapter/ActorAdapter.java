@@ -35,7 +35,6 @@ public class ActorAdapter extends RecyclerView.Adapter<ActorAdapter.ViewHolder> 
     @Override
     public ViewHolder onCreateViewHolder(@NonNull ViewGroup viewGroup, int i) {
         View view = LayoutInflater.from(viewGroup.getContext()).inflate(R.layout.actors_item_layout, viewGroup, false);
-        ButterKnife.bind(this, view);
         context = viewGroup.getContext();
         return new ViewHolder(view);
     }
@@ -79,21 +78,12 @@ public class ActorAdapter extends RecyclerView.Adapter<ActorAdapter.ViewHolder> 
         @BindView(R.id.tv_dob_list)
         TextView tvDobList;
 
-        private View mView;
-
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
-            mView = itemView;
-
-            cvList = itemView.findViewById(R.id.cv_list);
+            ButterKnife.bind(this, itemView);
         }
 
         public void getActorsData(String name_list, String desc_list, String dob_list, String image_list){
-            ivImageList = mView.findViewById(R.id.iv_image_list);
-            tvNameList = mView.findViewById(R.id.tv_name_list);
-            tvDescList = mView.findViewById(R.id.tv_desc_list);
-            tvDobList = mView.findViewById(R.id.tv_dob_list);
-
             tvNameList.setText(name_list);
             tvDescList.setText(desc_list);
             tvDobList.setText(dob_list);

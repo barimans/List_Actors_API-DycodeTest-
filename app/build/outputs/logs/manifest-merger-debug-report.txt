@@ -4,41 +4,41 @@ ADDED from /home/brizz/AndroidStudioProjects/DycodeTest/app/src/main/AndroidMani
 INJECTED from /home/brizz/AndroidStudioProjects/DycodeTest/app/src/main/AndroidManifest.xml:2:1-24:12
 INJECTED from /home/brizz/AndroidStudioProjects/DycodeTest/app/src/main/AndroidManifest.xml:2:1-24:12
 INJECTED from /home/brizz/AndroidStudioProjects/DycodeTest/app/src/main/AndroidManifest.xml:2:1-24:12
-MERGED from [com.android.support:design:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2ddad5915a1a09de96d235a6f6288ff8/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/115545a2f870166014a4fa00fac16e49/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/brizz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3837fc8af1f57f85cbc8bb4ac15f2e7a/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:cardview-v7:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/2ccfb0784d0440081f9dc6df6723718d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.jakewharton:butterknife:9.0.0-SNAPSHOT] /home/brizz/.gradle/caches/transforms-1/files-1.1/butterknife-9.0.0-SNAPSHOT.aar/f14a135abcccdf507e898fc08f8b1875/AndroidManifest.xml:2:1-7:12
-MERGED from [com.squareup.picasso:picasso:2.71828] /home/brizz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/71fd47be9345c8666ad7b4d2c085e9f7/AndroidManifest.xml:2:1-14:12
-MERGED from [com.android.support:support-fragment:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bf9786ce0d3754464a8217be6a96e6e7/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/620f8d31efbbfdcd94795ffe7e317c66/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/dc3373cc3c051e777d5bc61d626a274d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6cbc161bb0348881eff656c2cf6f45d4/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7eb9155baf8df7fbea13dbe1a26fde65/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/06c533a9e9584c7e504ded9ebdde1a9c/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/ecedf700053e3e394a0a52710923084e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.jakewharton:butterknife-runtime:9.0.0-SNAPSHOT] /home/brizz/.gradle/caches/transforms-1/files-1.1/butterknife-runtime-9.0.0-SNAPSHOT.aar/f8e7e2ce66e8f26a8687915f85f84b23/AndroidManifest.xml:2:1-7:12
-MERGED from [com.android.support:loader:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/bae707406cf17aede3c56db7883e1e85/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/01c110065a7e9f44e69b7f98c5146a0c/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c61824977be4bcd804f83da92dd1b401/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/fef8c5e32ca7652486a50f9bb28a0e8d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a9ab458afb663fdfcc18ba9288f388b9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/797af6918d8dfe670f8d82098458dfe9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/635d123a84acb0eed0eb24352ea5ad0b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e3142514a29a06363ec8bcf8f9635265/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5306f5c3186d5a549805dca279133604/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e96414622f0a6d7a6f2cd7f4f1bad6d0/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f029b6b52979afc429d2cd90d6dbadfe/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:exifinterface:27.1.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/4b5c0b080b675df850fa173392656daf/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4c18aad10d6509e8076219ff7675a615/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8a322b5acf55252fb716b7132ffbaa2c/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7d8c36d3a65e528ef7332e64034c0bce/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/bd0f7eeef121ed1fa5adf6d8f2446c5e/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/887e72a7fdd72215cf078664cfcea4b7/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/efe8240275c28fb5d7edfc01697a3fe1/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d6865516f1690cb78d3811488ab1eade/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8461a42b9ddb6178230f157dca7b9bae/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ea63c76486d371d70182708cfae09e95/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/c095578e70f3fe08d8aa3f5ba63fc5f4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b99cadc824030c4e7dbf5d33f1d44870/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/brizz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cd7789b85c0cf2546bcceb7d72f75006/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/3dcb27d289dd2edbafd36e8ddb7beaa1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:9.0.0-rc1] /home/brizz/.gradle/caches/transforms-1/files-1.1/butterknife-9.0.0-rc1.aar/19db098d8c815f05477a72dfbbc45239/AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/brizz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/26193c1fb306b2e6b5eb57836374754d/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2d279ee2b5909e973a3346d50faf59e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/03f1bf9c032e3325235068cd693c0c39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/48b4a17cae8bafd48fc529876affde80/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/91cfd468f7bda46757b41f02b7c9a3e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/553e02266118413757bd739f5704d826/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/291e9db29795a37f52626f428b879510/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/0c2bf4dc31e92edf6bdbe35c9038aa34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0-rc1] /home/brizz/.gradle/caches/transforms-1/files-1.1/butterknife-runtime-9.0.0-rc1.aar/8646d8e5be474b1e941caac71a8f0d47/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:loader:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/59160717b0d8edd473a5bb24ed2d638d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/354343169625244a1c0fcab6f1dc7078/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/36b0045d69c45ed79550c0e9c9bac165/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2c0adebf0cec17fe7d94286a33a7be65/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/90088b8c050f7c361d0023cb5fd5d469/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ad00dad8af6333f0ff3a798f5d4ab1b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3ad3d4682a8ad8247492ea489255bec0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/3a54be7b0707169a2dbe5cbe984ced80/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4974f70be9234873a64ab1b99bbff2ab/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7e7e8b025a78d1fae990e44ce2b4eb12/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/2de419bae8d52b70e233717871a4bd38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/0c551d0638fc85eec28a9299c5bb8be3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9b8d06f1e71cefde69c6b7110e555766/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f23a2237295f3a9e61ebe4a08b6b82ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/732726a5bd29d1e5be280c1cf007703b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/32725cbffe60e846ed83b252df184afa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/54ab77372e756dc6c6ca59fdcf5b30f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/253ab7e935625b773b463028bdcb2aaf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/4f7c9574686fb36f2e39eff55e9c0d1d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3357f9173df16ed9b9221d8f2366788e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7fa14347888b8f4a3fc4d96401f7f3c6/AndroidManifest.xml:17:1-22:12
 INJECTED from /home/brizz/AndroidStudioProjects/DycodeTest/app/src/main/AndroidManifest.xml:2:1-24:12
 INJECTED from /home/brizz/AndroidStudioProjects/DycodeTest/app/src/main/AndroidManifest.xml:2:1-24:12
 INJECTED from /home/brizz/AndroidStudioProjects/DycodeTest/app/src/main/AndroidManifest.xml:2:1-24:12
@@ -62,18 +62,18 @@ ADDED from /home/brizz/AndroidStudioProjects/DycodeTest/app/src/main/AndroidMani
 		ADDED from /home/brizz/AndroidStudioProjects/DycodeTest/app/src/main/AndroidManifest.xml:5:22-64
 application
 ADDED from /home/brizz/AndroidStudioProjects/DycodeTest/app/src/main/AndroidManifest.xml:7:5-22:19
-MERGED from [com.android.support:design:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2ddad5915a1a09de96d235a6f6288ff8/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2ddad5915a1a09de96d235a6f6288ff8/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/brizz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3837fc8af1f57f85cbc8bb4ac15f2e7a/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/brizz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3837fc8af1f57f85cbc8bb4ac15f2e7a/AndroidManifest.xml:9:5-20
-MERGED from [com.squareup.picasso:picasso:2.71828] /home/brizz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/71fd47be9345c8666ad7b4d2c085e9f7/AndroidManifest.xml:7:5-12:19
-MERGED from [com.squareup.picasso:picasso:2.71828] /home/brizz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/71fd47be9345c8666ad7b4d2c085e9f7/AndroidManifest.xml:7:5-12:19
-MERGED from [com.android.support:support-compat:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5306f5c3186d5a549805dca279133604/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5306f5c3186d5a549805dca279133604/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e96414622f0a6d7a6f2cd7f4f1bad6d0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e96414622f0a6d7a6f2cd7f4f1bad6d0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:design:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/c095578e70f3fe08d8aa3f5ba63fc5f4/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/c095578e70f3fe08d8aa3f5ba63fc5f4/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/brizz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cd7789b85c0cf2546bcceb7d72f75006/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/brizz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cd7789b85c0cf2546bcceb7d72f75006/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/brizz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/26193c1fb306b2e6b5eb57836374754d/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/brizz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/26193c1fb306b2e6b5eb57836374754d/AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4974f70be9234873a64ab1b99bbff2ab/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4974f70be9234873a64ab1b99bbff2ab/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7e7e8b025a78d1fae990e44ce2b4eb12/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7e7e8b025a78d1fae990e44ce2b4eb12/AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5306f5c3186d5a549805dca279133604/AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4974f70be9234873a64ab1b99bbff2ab/AndroidManifest.xml:22:18-91
 	android:supportsRtl
 		ADDED from /home/brizz/AndroidStudioProjects/DycodeTest/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
@@ -108,76 +108,76 @@ uses-sdk
 INJECTED from /home/brizz/AndroidStudioProjects/DycodeTest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/brizz/AndroidStudioProjects/DycodeTest/app/src/main/AndroidManifest.xml
 INJECTED from /home/brizz/AndroidStudioProjects/DycodeTest/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:design:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2ddad5915a1a09de96d235a6f6288ff8/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2ddad5915a1a09de96d235a6f6288ff8/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/115545a2f870166014a4fa00fac16e49/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/115545a2f870166014a4fa00fac16e49/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/brizz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3837fc8af1f57f85cbc8bb4ac15f2e7a/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/brizz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3837fc8af1f57f85cbc8bb4ac15f2e7a/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:cardview-v7:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/2ccfb0784d0440081f9dc6df6723718d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/2ccfb0784d0440081f9dc6df6723718d/AndroidManifest.xml:20:5-44
-MERGED from [com.jakewharton:butterknife:9.0.0-SNAPSHOT] /home/brizz/.gradle/caches/transforms-1/files-1.1/butterknife-9.0.0-SNAPSHOT.aar/f14a135abcccdf507e898fc08f8b1875/AndroidManifest.xml:5:5-44
-MERGED from [com.jakewharton:butterknife:9.0.0-SNAPSHOT] /home/brizz/.gradle/caches/transforms-1/files-1.1/butterknife-9.0.0-SNAPSHOT.aar/f14a135abcccdf507e898fc08f8b1875/AndroidManifest.xml:5:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] /home/brizz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/71fd47be9345c8666ad7b4d2c085e9f7/AndroidManifest.xml:5:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] /home/brizz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/71fd47be9345c8666ad7b4d2c085e9f7/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bf9786ce0d3754464a8217be6a96e6e7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bf9786ce0d3754464a8217be6a96e6e7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/620f8d31efbbfdcd94795ffe7e317c66/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/620f8d31efbbfdcd94795ffe7e317c66/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/dc3373cc3c051e777d5bc61d626a274d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/dc3373cc3c051e777d5bc61d626a274d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6cbc161bb0348881eff656c2cf6f45d4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6cbc161bb0348881eff656c2cf6f45d4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7eb9155baf8df7fbea13dbe1a26fde65/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7eb9155baf8df7fbea13dbe1a26fde65/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/06c533a9e9584c7e504ded9ebdde1a9c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/06c533a9e9584c7e504ded9ebdde1a9c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/ecedf700053e3e394a0a52710923084e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/ecedf700053e3e394a0a52710923084e/AndroidManifest.xml:20:5-44
-MERGED from [com.jakewharton:butterknife-runtime:9.0.0-SNAPSHOT] /home/brizz/.gradle/caches/transforms-1/files-1.1/butterknife-runtime-9.0.0-SNAPSHOT.aar/f8e7e2ce66e8f26a8687915f85f84b23/AndroidManifest.xml:5:5-44
-MERGED from [com.jakewharton:butterknife-runtime:9.0.0-SNAPSHOT] /home/brizz/.gradle/caches/transforms-1/files-1.1/butterknife-runtime-9.0.0-SNAPSHOT.aar/f8e7e2ce66e8f26a8687915f85f84b23/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:loader:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/bae707406cf17aede3c56db7883e1e85/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/bae707406cf17aede3c56db7883e1e85/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/01c110065a7e9f44e69b7f98c5146a0c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/01c110065a7e9f44e69b7f98c5146a0c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c61824977be4bcd804f83da92dd1b401/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c61824977be4bcd804f83da92dd1b401/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/fef8c5e32ca7652486a50f9bb28a0e8d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/fef8c5e32ca7652486a50f9bb28a0e8d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a9ab458afb663fdfcc18ba9288f388b9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a9ab458afb663fdfcc18ba9288f388b9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/797af6918d8dfe670f8d82098458dfe9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/797af6918d8dfe670f8d82098458dfe9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/635d123a84acb0eed0eb24352ea5ad0b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/635d123a84acb0eed0eb24352ea5ad0b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e3142514a29a06363ec8bcf8f9635265/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e3142514a29a06363ec8bcf8f9635265/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5306f5c3186d5a549805dca279133604/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5306f5c3186d5a549805dca279133604/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e96414622f0a6d7a6f2cd7f4f1bad6d0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e96414622f0a6d7a6f2cd7f4f1bad6d0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f029b6b52979afc429d2cd90d6dbadfe/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f029b6b52979afc429d2cd90d6dbadfe/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:exifinterface:27.1.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/4b5c0b080b675df850fa173392656daf/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:exifinterface:27.1.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/4b5c0b080b675df850fa173392656daf/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4c18aad10d6509e8076219ff7675a615/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4c18aad10d6509e8076219ff7675a615/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8a322b5acf55252fb716b7132ffbaa2c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8a322b5acf55252fb716b7132ffbaa2c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7d8c36d3a65e528ef7332e64034c0bce/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7d8c36d3a65e528ef7332e64034c0bce/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/bd0f7eeef121ed1fa5adf6d8f2446c5e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/bd0f7eeef121ed1fa5adf6d8f2446c5e/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/887e72a7fdd72215cf078664cfcea4b7/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/887e72a7fdd72215cf078664cfcea4b7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/efe8240275c28fb5d7edfc01697a3fe1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/efe8240275c28fb5d7edfc01697a3fe1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d6865516f1690cb78d3811488ab1eade/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d6865516f1690cb78d3811488ab1eade/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8461a42b9ddb6178230f157dca7b9bae/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8461a42b9ddb6178230f157dca7b9bae/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ea63c76486d371d70182708cfae09e95/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ea63c76486d371d70182708cfae09e95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/c095578e70f3fe08d8aa3f5ba63fc5f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/c095578e70f3fe08d8aa3f5ba63fc5f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b99cadc824030c4e7dbf5d33f1d44870/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b99cadc824030c4e7dbf5d33f1d44870/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/brizz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cd7789b85c0cf2546bcceb7d72f75006/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/brizz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cd7789b85c0cf2546bcceb7d72f75006/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/3dcb27d289dd2edbafd36e8ddb7beaa1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/3dcb27d289dd2edbafd36e8ddb7beaa1/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:9.0.0-rc1] /home/brizz/.gradle/caches/transforms-1/files-1.1/butterknife-9.0.0-rc1.aar/19db098d8c815f05477a72dfbbc45239/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:9.0.0-rc1] /home/brizz/.gradle/caches/transforms-1/files-1.1/butterknife-9.0.0-rc1.aar/19db098d8c815f05477a72dfbbc45239/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/brizz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/26193c1fb306b2e6b5eb57836374754d/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/brizz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/26193c1fb306b2e6b5eb57836374754d/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2d279ee2b5909e973a3346d50faf59e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2d279ee2b5909e973a3346d50faf59e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/03f1bf9c032e3325235068cd693c0c39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/03f1bf9c032e3325235068cd693c0c39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/48b4a17cae8bafd48fc529876affde80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/48b4a17cae8bafd48fc529876affde80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/91cfd468f7bda46757b41f02b7c9a3e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/91cfd468f7bda46757b41f02b7c9a3e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/553e02266118413757bd739f5704d826/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/553e02266118413757bd739f5704d826/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/291e9db29795a37f52626f428b879510/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/291e9db29795a37f52626f428b879510/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/0c2bf4dc31e92edf6bdbe35c9038aa34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/0c2bf4dc31e92edf6bdbe35c9038aa34/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0-rc1] /home/brizz/.gradle/caches/transforms-1/files-1.1/butterknife-runtime-9.0.0-rc1.aar/8646d8e5be474b1e941caac71a8f0d47/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0-rc1] /home/brizz/.gradle/caches/transforms-1/files-1.1/butterknife-runtime-9.0.0-rc1.aar/8646d8e5be474b1e941caac71a8f0d47/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/59160717b0d8edd473a5bb24ed2d638d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/59160717b0d8edd473a5bb24ed2d638d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/354343169625244a1c0fcab6f1dc7078/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/354343169625244a1c0fcab6f1dc7078/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/36b0045d69c45ed79550c0e9c9bac165/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/36b0045d69c45ed79550c0e9c9bac165/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2c0adebf0cec17fe7d94286a33a7be65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2c0adebf0cec17fe7d94286a33a7be65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/90088b8c050f7c361d0023cb5fd5d469/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/90088b8c050f7c361d0023cb5fd5d469/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ad00dad8af6333f0ff3a798f5d4ab1b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ad00dad8af6333f0ff3a798f5d4ab1b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3ad3d4682a8ad8247492ea489255bec0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3ad3d4682a8ad8247492ea489255bec0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/3a54be7b0707169a2dbe5cbe984ced80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/3a54be7b0707169a2dbe5cbe984ced80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4974f70be9234873a64ab1b99bbff2ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4974f70be9234873a64ab1b99bbff2ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7e7e8b025a78d1fae990e44ce2b4eb12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7e7e8b025a78d1fae990e44ce2b4eb12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/2de419bae8d52b70e233717871a4bd38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/2de419bae8d52b70e233717871a4bd38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/0c551d0638fc85eec28a9299c5bb8be3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/0c551d0638fc85eec28a9299c5bb8be3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9b8d06f1e71cefde69c6b7110e555766/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9b8d06f1e71cefde69c6b7110e555766/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f23a2237295f3a9e61ebe4a08b6b82ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f23a2237295f3a9e61ebe4a08b6b82ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/732726a5bd29d1e5be280c1cf007703b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/732726a5bd29d1e5be280c1cf007703b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/32725cbffe60e846ed83b252df184afa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/32725cbffe60e846ed83b252df184afa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/54ab77372e756dc6c6ca59fdcf5b30f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/54ab77372e756dc6c6ca59fdcf5b30f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/253ab7e935625b773b463028bdcb2aaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/brizz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/253ab7e935625b773b463028bdcb2aaf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/4f7c9574686fb36f2e39eff55e9c0d1d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/4f7c9574686fb36f2e39eff55e9c0d1d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3357f9173df16ed9b9221d8f2366788e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3357f9173df16ed9b9221d8f2366788e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7fa14347888b8f4a3fc4d96401f7f3c6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/brizz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7fa14347888b8f4a3fc4d96401f7f3c6/AndroidManifest.xml:20:5-44
 INJECTED from /home/brizz/AndroidStudioProjects/DycodeTest/app/src/main/AndroidManifest.xml
 INJECTED from /home/brizz/AndroidStudioProjects/DycodeTest/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -189,10 +189,10 @@ INJECTED from /home/brizz/AndroidStudioProjects/DycodeTest/app/src/main/AndroidM
 		ADDED from /home/brizz/AndroidStudioProjects/DycodeTest/app/src/main/AndroidManifest.xml
 		INJECTED from /home/brizz/AndroidStudioProjects/DycodeTest/app/src/main/AndroidManifest.xml
 provider#com.squareup.picasso.PicassoProvider
-ADDED from [com.squareup.picasso:picasso:2.71828] /home/brizz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/71fd47be9345c8666ad7b4d2c085e9f7/AndroidManifest.xml:8:9-11:40
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/brizz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/26193c1fb306b2e6b5eb57836374754d/AndroidManifest.xml:8:9-11:40
 	android:authorities
-		ADDED from [com.squareup.picasso:picasso:2.71828] /home/brizz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/71fd47be9345c8666ad7b4d2c085e9f7/AndroidManifest.xml:10:13-72
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/brizz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/26193c1fb306b2e6b5eb57836374754d/AndroidManifest.xml:10:13-72
 	android:exported
-		ADDED from [com.squareup.picasso:picasso:2.71828] /home/brizz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/71fd47be9345c8666ad7b4d2c085e9f7/AndroidManifest.xml:11:13-37
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/brizz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/26193c1fb306b2e6b5eb57836374754d/AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [com.squareup.picasso:picasso:2.71828] /home/brizz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/71fd47be9345c8666ad7b4d2c085e9f7/AndroidManifest.xml:9:13-64
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/brizz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/26193c1fb306b2e6b5eb57836374754d/AndroidManifest.xml:9:13-64

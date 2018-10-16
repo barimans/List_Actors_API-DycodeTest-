@@ -1,4 +1,4 @@
-#Mon Oct 01 18:12:51 WIB 2018
+#Tue Oct 16 15:15:52 WIB 2018
 base.0=/home/brizz/AndroidStudioProjects/DycodeTest/app/build/intermediates/transforms/dexMerger/debug/4
 path.0=classes.dex
 renamed.0=classes.dex
